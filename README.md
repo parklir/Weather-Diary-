@@ -18,4 +18,5 @@ Weather Diary — это графическое приложение для ве
 
 ```bash
 git clone https://github.com/parklir/Weather-Diary-
-cd main.py
+cd main.py 
+python main.py
