@@ -17,5 +17,5 @@ Weather Diary — это графическое приложение для ве
 2. Скачайте или склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ТВОЙ_ЛОГИН/WeatherDiary.git
+git clone https://github.com/parklir/Weather-Diary-
 cd main.py
